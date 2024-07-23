@@ -1,1 +1,1 @@
-Há muito tempo se fala sobre programação mas não sobre as mulheres que fizeram parte deste caminho, principalmente a primeira pessoa que programou.
+Há muito tempo se fala sobre programação mas não sobre as mulheres que fizeram parte deste caminho, principalmente a primeira pessoa que programou por este motivo fiz o rosto do site com algumas informações sobre Ada Lovelace para que assim como eu outras mulheres possam se inspirar em tecnologia, ao final do site deixo linkado outras grandes programadores que fizeram historia e ajudaram a nação.
